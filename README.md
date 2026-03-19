@@ -1,6 +1,6 @@
 # Dyno-Net: A Dynamic Feature Extraction Model for Gastrointestinal Polyp Detection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
 [![Pytorch](https://img.shields.io/badge/PyTorch-1.8.0%2B-red)]()
 
@@ -95,7 +95,7 @@ If you find this code or our paper useful for your research, please cite our AIS
 ```
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [GNU AGPL-3.0 License](LICENSE) - see the LICENSE file for details. This is in accordance with the license requirements of the Ultralytics YOLO framework upon which this project is built.
 
 ## 🤝 Acknowledgments
 Our code is based on the [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) framework. We thank the developers and the open-source community for their excellent work.

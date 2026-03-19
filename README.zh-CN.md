@@ -1,6 +1,6 @@
 # Dyno-Net: 胃肠道息肉检测的动态特征提取模型
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)
 
 [English](README.md) | [中文介绍](README.zh-CN.md)
 
@@ -92,7 +92,7 @@ python val.py --weights runs/train/exp/weights/best.pt --data dataset/polyp/poly
 ```
 
 ## 📄 开源协议
-本项目采用 [MIT License](LICENSE) 协议发布，详情请查阅该仓库内的LICENSE文本。
+本项目基于 [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) 框架构建。根据 YOLO 的开源协议要求，本项目同样采用 **AGPL-3.0 License** 协议发布。详情请查阅该仓库内的 [LICENSE](LICENSE) 文本。
 
 ## 🤝 致谢
 为了达到优异性能和可拓展性，本框架基于 [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) 代码库打造。我们感谢开发者和开源社区为框架做出的贡献。
