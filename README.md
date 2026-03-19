@@ -8,7 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0%2B-red.svg)]()
 [![Conference](https://img.shields.io/badge/Paper-AISTATS%202026-2b9348.svg)]()
 
-[English](README.md) | [¼òÌåÖÐÎÄ](README.zh-CN.md)
+[English](README.md) | [ç®€ä½“ä¸­æ–‡](README.zh-CN.md)
 
 </div>
 
