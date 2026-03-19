@@ -1,0 +1,22 @@
+# Environments
+.venv/
+test-env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Results
+dataset/
+result/
+runs/
+*.pt
+
+# Exclude Paper directory as requested
+Paper/
+
+# OS specific files
+.DS_Store
+Thumbs.db

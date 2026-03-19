@@ -1,0 +1,8 @@
+train: E:\Project\Python\Pytorch\datasets\polyp\images\train  # train images (relative to 'path') 4 images
+val: E:\Project\Python\Pytorch\datasets\polyp\images\val  # val images (relative to 'path') 4 images
+test: E:\Project\Python\Pytorch\datasets\polyp\images\test # test images (relative to 'path') 4 images
+
+nc: 1
+
+# class names
+names: ['polyp']
