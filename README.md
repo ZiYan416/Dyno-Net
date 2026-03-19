@@ -43,7 +43,7 @@ Gastrointestinal polyp detection is challenging due to complex morphologies, div
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Dyno-Net.git
+git clone https://github.com/Zi_Yan416/Dyno-Net.git
 cd Dyno-Net
 ```
 
